@@ -5,7 +5,7 @@ public class Work2 {
         System.out.println("### Home Work #2");
         // write your code here
         System.out.println("*********************");
-        System.out.println("*                   *");
+        System.out.println("*    Coming soon    *");
         System.out.println("*********************");
     }
 }
